@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 
-import ImgBg from "../../images/coffee-2.jpeg";
+import ImgBg from "../../images/hero-1.jpeg";
 
 export const HeroContainer = styled.div`
   background: url(${ImgBg});
