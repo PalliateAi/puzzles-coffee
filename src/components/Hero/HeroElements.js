@@ -6,7 +6,7 @@ import ImgBg from "../../images/coffee-2.jpeg";
 export const HeroContainer = styled.div`
   background: url(${ImgBg});
   height: 100vh;
-  background-position: center;
+
   background-size: cover;
 `;
 
